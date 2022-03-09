@@ -1,5 +1,5 @@
 import nextcord
-import random, uuid, os, time
+import random, uuid, os, time, logging
 
 # Machine Learning libraries
 import tensorflow as tf
@@ -13,11 +13,17 @@ from nextcord.ext import commands
 
 np_config.enable_numpy_behavior()
 
+# Logging configuration
+logging.basicConfig(filename = 'discord-bot.log', filemode = 'a', format = '%(asctime)s %(levelname)s: %(message)s', datefmt='%d/%m/%Y %I:%M:%S %p', encoding='utf-8', level = logging.INFO)
+
 try:
+    logging.info('Trying to load Dragonfinder model from current directory...')
     model = tf.keras.models.load_model('dragonfinder-model.h5')
 except:
-    print('No model found')
+    logging.error('No model found, are you sure you have downloaded the model from the repository?')
     exit()
+
+logging.info('Model successfully loaded!')
 
 IMAGE_HEIGHT = 100
 IMAGE_WIDTH = 150
@@ -74,7 +80,8 @@ bot = commands.Bot(command_prefix='$', description=description, intents=intents)
 @bot.event
 async def on_ready():
     print(f'Logged in as {bot.user} (ID: {bot.user.id})')
-    print('------')
+    logging.info(f'Bot {bot.user} successfully logged on with user ID {bot.user.id}')
+    print('-------------------------')
 
 @bot.command()
 async def add(ctx, left: int, right: int):
@@ -85,6 +92,7 @@ async def add(ctx, left: int, right: int):
 # Download the image attachment from the user message, then send the image file back to the user.
 @bot.command()
 async def find(ctx):
+    '''Find a dragon within an image, make sure the attachment is included with the command.'''
     if ctx.message.attachments:
         # Generate a unique UUID for the downloaded image
         imgFileName = uuid.UUID(int = random.getrandbits(128)) + '.png'
