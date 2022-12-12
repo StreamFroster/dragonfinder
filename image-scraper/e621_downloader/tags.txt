@@ -1,0 +1,19 @@
+# This is the tag file that you will use so the program can know what tags to search.
+# If you wish to comment in this file, simply put `#` at the beginning or end of line.
+
+# Insert tags you wish to download in the appropriate group (remove all example tags and IDs with what you wish to download):
+
+[artists]
+
+
+[pools]
+
+
+[sets]
+
+
+[single-post]
+
+
+[general]
+dragon rating:safe score:>50 status:active order:score type:png type:jpg -my_little_pony 

@@ -1,0 +1,1 @@
+e621 updated something on their end that makes almost every image downloader I tried to use break. However, [this](https://github.com/McSib/e621_downloader) one seems to be working fine. The config files are available in the `e621_downloader` folder.
