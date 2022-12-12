@@ -98,7 +98,7 @@ async def find(ctx):
         imgFileName = uuid.UUID(int = random.getrandbits(128)) + '.png'
         
         # Combine the attachment file name with the folder it's supposed to be in
-        imgName = str(os.path.join('attachments', imgFileName)) 
+        imgName = str(os.path.join('downloaded-attachments', imgFileName)) 
 
         await ctx.message.attachments[0].save(imgName)
 
