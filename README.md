@@ -21,3 +21,8 @@ Tutorials and References used in the making of this project:
 - [YOLOv5 - Train Custom Data](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)
 
 Give the articles a read to generally better understand how to make a similar project.
+
+
+## Discord
+
+[Join our Discord server!](https://discord.gg/Jc2r2svyjH)
