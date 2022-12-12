@@ -13,3 +13,11 @@ Refer to the [projects](https://github.com/StreamFroster/dragonfinder/projects?t
 <hr>
 
 The notebook file for this project can be found [here](https://colab.research.google.com/drive/1A-4iOvUQ1WmhJ0J5AwuOfSG636mZEyCK?usp=sharing)
+
+
+Tutorials and References used in the making of this project:
+
+- [How to Train YOLOv5 On a Custom Dataset](https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/)
+- [YOLOv5 - Train Custom Data](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)
+
+Give the articles a read to generally better understand how to make a similar project.
