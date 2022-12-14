@@ -6,20 +6,20 @@ The bot itself looks for any message starting with the command `$find` to downlo
 
 ## Installing dependencies
 
-You'll need to install all of the required dependencies listed in the `requirements.txt` file
+You'll need to install all of the required dependencies required for the bot to work
 
 ```
-pip install -r requirements.txt
+npm install
 ```
 
 ## Downloading the trained model
 
 The trained model is available for download [here](https://drive.google.com/drive/folders/1YTl06HgPwjzF6NKue7XAw9b55XP06zhs?usp=share_link). The bot will use the downloaded model to draw bounding boxes on new images.
 
-> Note: Make sure to replace the [DISCORD_BOT_TOKEN] with your own token! If unsure how to get yours, refer to [the official Discord Developer docs](https://discord.com/developers/docs/topics/oauth2)
+> Note: Make sure to create a new `config.json` containing your own bot script! If unsure how to get yours, refer to [the official Discord Developer docs](https://discord.com/developers/docs/topics/oauth2)
 
-## Run the Python script
+## Run the script using Node
 
 ```
-python ./main.py
+node ./main.js
 ```

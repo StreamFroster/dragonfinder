@@ -1,0 +1,89 @@
+09/03/2022 08:11:02 PM INFO: Trying to load Dragonfinder model from current directory...
+09/03/2022 08:11:03 PM INFO: Model successfully loaded!
+09/03/2022 08:11:03 PM WARNING: PyNaCl is not installed, voice will NOT be supported
+09/03/2022 08:11:03 PM INFO: logging in using static token
+09/03/2022 08:11:05 PM INFO: Shard ID None has sent the IDENTIFY payload.
+09/03/2022 08:11:06 PM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-7j45",{"micros":93520,"calls":["discord-sessions-blue-prd-2-20",{"micros":92462,"calls":["start_session",{"micros":43738,"calls":["discord-api-6d577cfcfc-ldcfg",{"micros":40214,"calls":["get_user",{"micros":2953},"add_authorized_ip",{"micros":2303},"get_guilds",{"micros":5682},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":6420,"calls":[]}]}]}] (Session ID: 1bd67ee40ff3fbbb58c8de1971bea0c6).
+09/03/2022 08:11:08 PM INFO: Bot {bot.user} successfully logged on with user ID {bot.user.id}
+09/03/2022 08:12:17 PM INFO: Trying to load Dragonfinder model from current directory...
+09/03/2022 08:12:17 PM INFO: Model successfully loaded!
+09/03/2022 08:12:17 PM WARNING: PyNaCl is not installed, voice will NOT be supported
+09/03/2022 08:12:17 PM INFO: logging in using static token
+09/03/2022 08:12:21 PM INFO: Shard ID None has sent the IDENTIFY payload.
+09/03/2022 08:12:23 PM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-q0f7",{"micros":51746,"calls":["discord-sessions-blue-prd-2-168",{"micros":50784,"calls":["start_session",{"micros":40682,"calls":["discord-api-6d577cfcfc-md6cf",{"micros":36300,"calls":["get_user",{"micros":3216},"add_authorized_ip",{"micros":3266},"get_guilds",{"micros":6135},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7439,"calls":[]}]}]}] (Session ID: 7a575ae0c1a087c6601549db40575d4e).
+09/03/2022 08:12:25 PM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+11/03/2022 09:17:56 PM INFO: Trying to load Dragonfinder model from current directory...
+11/03/2022 09:17:57 PM INFO: Model successfully loaded!
+11/03/2022 09:17:57 PM WARNING: PyNaCl is not installed, voice will NOT be supported
+11/03/2022 09:17:57 PM INFO: logging in using static token
+11/03/2022 09:17:59 PM INFO: Shard ID None has sent the IDENTIFY payload.
+11/03/2022 09:17:59 PM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-v4jj",{"micros":93723,"calls":["discord-sessions-green-prd-2-147",{"micros":92761,"calls":["start_session",{"micros":52683,"calls":["discord-api-5dcc4d976-ff2c2",{"micros":48246,"calls":["get_user",{"micros":5706},"add_authorized_ip",{"micros":3682},"get_guilds",{"micros":8870},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10882,"calls":[]}]}]}] (Session ID: a285bbc987aab1bcaa01d952cf371a54).
+11/03/2022 09:18:01 PM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+11/03/2022 09:23:34 PM INFO: Trying to load Dragonfinder model from current directory...
+11/03/2022 09:23:34 PM INFO: Model successfully loaded!
+11/03/2022 09:23:34 PM WARNING: PyNaCl is not installed, voice will NOT be supported
+11/03/2022 09:23:34 PM INFO: logging in using static token
+11/03/2022 09:23:36 PM INFO: Shard ID None has sent the IDENTIFY payload.
+11/03/2022 09:23:36 PM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-h2s2",{"micros":119886,"calls":["discord-sessions-green-prd-2-142",{"micros":118732,"calls":["start_session",{"micros":92684,"calls":["discord-api-5dcc4d976-tlcp4",{"micros":35725,"calls":["get_user",{"micros":5402},"add_authorized_ip",{"micros":3673},"get_guilds",{"micros":5112},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":22987,"calls":[]}]}]}] (Session ID: 442f9d9488ea4614fe8eb0f56b2ed933).
+11/03/2022 09:23:38 PM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:13:15 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:13:23 AM INFO: Model successfully loaded!
+19/03/2022 12:13:23 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:13:23 AM INFO: logging in using static token
+19/03/2022 12:13:24 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:13:25 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-d4p8",{"micros":130654,"calls":["discord-sessions-blue-prd-2-75",{"micros":129384,"calls":["start_session",{"micros":61077,"calls":["discord-api-777d6df4cf-q5s78",{"micros":57417,"calls":["get_user",{"micros":4673},"add_authorized_ip",{"micros":4349},"get_guilds",{"micros":6795},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":56841,"calls":[]}]}]}] (Session ID: 7678bd6c89e2f57afc7cd28aeaddf76f).
+19/03/2022 12:13:27 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:15:11 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:15:15 AM INFO: Model successfully loaded!
+19/03/2022 12:15:15 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:15:15 AM INFO: logging in using static token
+19/03/2022 12:15:16 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:15:17 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-h5x4",{"micros":141110,"calls":["discord-sessions-blue-prd-2-99",{"micros":140056,"calls":["start_session",{"micros":75817,"calls":["discord-api-777d6df4cf-f7ss2",{"micros":71620,"calls":["get_user",{"micros":5002},"add_authorized_ip",{"micros":4558},"get_guilds",{"micros":11318},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":30010,"calls":[]}]}]}] (Session ID: b9a090b8c64e0880c62fbb506f37a5af).
+19/03/2022 12:15:19 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:20:50 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:20:54 AM INFO: Model successfully loaded!
+19/03/2022 12:20:54 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:20:54 AM INFO: logging in using static token
+19/03/2022 12:20:55 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:20:55 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-6lb7",{"micros":87906,"calls":["discord-sessions-blue-prd-2-134",{"micros":86825,"calls":["start_session",{"micros":80065,"calls":["api-prd-main-pfz7",{"micros":70536,"calls":["get_user",{"micros":9413},"add_authorized_ip",{"micros":2949},"get_guilds",{"micros":8930},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":188,"calls":[]}]}]}] (Session ID: 70d8e965d3a5d13dd3686b1c50dda324).
+19/03/2022 12:20:57 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:22:22 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:22:26 AM INFO: Model successfully loaded!
+19/03/2022 12:22:26 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:22:26 AM INFO: logging in using static token
+19/03/2022 12:22:27 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:22:27 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-gtx4",{"micros":84368,"calls":["discord-sessions-blue-prd-2-52",{"micros":83295,"calls":["start_session",{"micros":46314,"calls":["discord-api-777d6df4cf-p8cj9",{"micros":42288,"calls":["get_user",{"micros":5704},"add_authorized_ip",{"micros":2971},"get_guilds",{"micros":4995},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":36370,"calls":[]}]}]}] (Session ID: 8dfd57bb762ed3f4c801eaeab22a1e2d).
+19/03/2022 12:22:29 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:23:47 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:23:51 AM INFO: Model successfully loaded!
+19/03/2022 12:23:51 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:23:51 AM INFO: logging in using static token
+19/03/2022 12:23:54 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:23:54 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-9czr",{"micros":150864,"calls":["discord-sessions-blue-prd-2-86",{"micros":149767,"calls":["start_session",{"micros":99328,"calls":["discord-api-777d6df4cf-vq8qb",{"micros":89609,"calls":["get_user",{"micros":11108},"add_authorized_ip",{"micros":6403},"get_guilds",{"micros":13957},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":32247,"calls":[]}]}]}] (Session ID: b59a0ad07898eb7de9848454eb475005).
+19/03/2022 12:23:56 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:35:55 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:35:59 AM INFO: Model successfully loaded!
+19/03/2022 12:35:59 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:35:59 AM INFO: logging in using static token
+19/03/2022 12:36:02 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:36:02 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-ds1p",{"micros":172254,"calls":["discord-sessions-blue-prd-2-102",{"micros":168440,"calls":["start_session",{"micros":109193,"calls":["discord-api-777d6df4cf-hx82h",{"micros":103895,"calls":["get_user",{"micros":22589},"add_authorized_ip",{"micros":7282},"get_guilds",{"micros":9969},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":26794,"calls":[]}]}]}] (Session ID: 35da62b1c36dc19202f175afd876195c).
+19/03/2022 12:36:04 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+19/03/2022 12:38:05 AM INFO: Trying to load Dragonfinder model from current directory...
+19/03/2022 12:38:08 AM INFO: Model successfully loaded!
+19/03/2022 12:38:08 AM WARNING: PyNaCl is not installed, voice will NOT be supported
+19/03/2022 12:38:08 AM INFO: logging in using static token
+19/03/2022 12:38:39 AM INFO: Shard ID None has sent the IDENTIFY payload.
+19/03/2022 12:38:40 AM INFO: Shard ID None has connected to Gateway: ["gateway-prd-main-m2j7",{"micros":159365,"calls":["discord-sessions-blue-prd-2-98",{"micros":158307,"calls":["start_session",{"micros":116153,"calls":["discord-api-777d6df4cf-j9kkk",{"micros":108191,"calls":["get_user",{"micros":4851},"add_authorized_ip",{"micros":6265},"get_guilds",{"micros":34894},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7354,"calls":[]}]}]}] (Session ID: ddf4bbc0d9099366202dabef6dca56c4).
+19/03/2022 12:38:42 AM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+12/12/2022 01:00:03 PM INFO: Trying to load Dragonfinder model from current directory...
+12/12/2022 01:00:12 PM INFO: Model successfully loaded!
+12/12/2022 01:00:12 PM WARNING: PyNaCl is not installed, voice will NOT be supported
+12/12/2022 01:00:12 PM INFO: logging in using static token
+12/12/2022 01:00:13 PM INFO: Shard ID None has sent the IDENTIFY payload.
+12/12/2022 01:00:13 PM INFO: Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-5vs3",{"micros":145560,"calls":["id_created",{"micros":1192,"calls":[]},"session_lookup_time",{"micros":278,"calls":[]},"session_lookup_finished",{"micros":12,"calls":[]},"discord-sessions-blue-prd-2-149",{"micros":142789,"calls":["start_session",{"micros":65605,"calls":["discord-api-5c5c8b6bdc-fthln",{"micros":49229,"calls":["get_user",{"micros":10306},"get_guilds",{"micros":4674},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":154},"authorized_ip_coro",{"micros":31}]}]},"starting_guild_connect",{"micros":51,"calls":[]},"presence_started",{"micros":34671,"calls":[]},"guilds_started",{"micros":101,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":42305,"calls":[]},"connect_finished",{"micros":42309,"calls":[]},"build_ready",{"micros":17,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":33,"calls":[]},"clean_ready",{"micros":0,"calls":[]}]}]}] (Session ID: 7feab1555099b1889d4a72d0dfb8ee42). Resume URL specified as wss://gateway-us-east1-c.discord.gg
+12/12/2022 01:00:15 PM INFO: Bot Dragonfinder#2562 successfully logged on with user ID 940585410751508510
+12/12/2022 01:00:38 PM INFO: Received signal to terminate bot and event loop.
+12/12/2022 01:00:38 PM INFO: Cleaning up tasks.
+12/12/2022 01:00:38 PM INFO: Cleaning up after 1 tasks.
+12/12/2022 01:00:38 PM INFO: All tasks finished cancelling.
+12/12/2022 01:00:38 PM INFO: Closing the event loop.

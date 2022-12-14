@@ -1,0 +1,17 @@
+{
+  "name": "dragonfinder-discord",
+  "version": "1.0.0",
+  "description": "Discord bot for the Dragonfinder project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "MagusWyvern",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
